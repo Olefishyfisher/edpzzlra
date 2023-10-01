@@ -193,7 +193,7 @@ function openPopup(assignment) {
     <p style="font-size: 12px" id="loading_text"></p>
   </div>
   <hr>
-  <p style="font-size: 12px">livelaugh <a target="_blank" href="ellisprojects1">lmaoooo</a>: <i> looool </i></p>`;
+  <p style="font-size: 12px">olefishyfisher <a target="_blank" href="ellisprojects1">lmaoooo</a>: <i> looool </i></p>`;
   popup = window.open("about:blank", "", "width=600, height=400");
   popup.document.write(base_html);
 
